@@ -1,0 +1,34 @@
+{
+  "tabs": [
+    {
+      "name": "Home",
+      "icon": "fi-rr-home",
+      "href": "/",
+      "visible": true
+    },
+    {
+      "name": "Order",
+      "icon": "fi-rr-shop",
+      "href": "/shop",
+      "visible": true
+    },
+    {
+      "name": "Card",
+      "icon": "fi-rr-credit-card",
+      "href": "/card",
+      "visible": true
+    },
+    {
+      "name": "Reward",
+      "icon": "fi-rr-gift",
+      "href": "/reward",
+      "visible": false
+    },
+    {
+      "name": "Account",
+      "icon": "fi-rr-user",
+      "href": "/account",
+      "visible": true
+    }
+  ]
+}

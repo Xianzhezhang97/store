@@ -1,0 +1,47 @@
+{
+  "login": {
+    "title": "Gobell System Dashboard",
+    "success": "Login Success",
+    "failed": "Login Failed",
+    "welcome": "Welcome to Gobell System Dashboard",
+    "invalid": "Invalid phone number or password",
+    "phone": "Phone Number",
+    "password": "Password",
+    "enter": "Enter Password",
+    "login": "Sign In",
+    "forgot": "Forgot Password?",
+    "register": "Sign up as a Staff",
+    "remember": "Remember Me"
+  },
+  "forget": {
+    "reset": "Reset Password",
+    "getOtp": "Get Code",
+    "otp": "Verification Code",
+    "otpError": "Get Verification Code Failed",
+    "enterPhone": "Please enter a valid phone number",
+    "networkError": "Network Error",
+    "password": "New Password",
+    "return": "Return to Sign In Page",
+    "enter": "Enter New Password",
+    "resetPassword": "Reset Password",
+    "resetSuccess": "Reset Password Success",
+    "resetFailed": "Reset Password Failed",
+    "resetFailedMessage": "Account does not exist",
+    "200": "Reset Success, please login again",
+    "400": "Invalid phone number format",
+    "401": "Invalid verification code",
+    "404_true": "Account already exists, please login directly",
+    "404_false": "Account does not exist"
+  },
+  "signup": {
+    "title": "Sign up a Staff Account",
+    "signup": "Sign Up",
+    "return": "Return to Sign In Page",
+    "role": "Choose your Role",
+    "name": "Name",
+    "enterName": "Enter your Name",
+    "merchantError": "Fetch Merchant Data Failed",
+    "assignTo": "Assign to Merchant"
+  },
+  "networkError": "Network Error, please try again later"
+}
